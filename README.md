@@ -25,8 +25,3 @@ HTML5, CSS3 (custom properties, Flexbox, Grxid, media queries), vanilla JavaScri
 index.html   page markup
 style.css    styles and responsive rules
 script.js    nav toggle, theme toggle, project filter
-```
-
-## Customize
-
-Search for `Your Name`, `your-username` and `you@example.com` and replace them with your own details.
