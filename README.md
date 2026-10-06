@@ -2,6 +2,8 @@
 
 A responsive personal portfolio built with plain HTML, CSS and JavaScript (no frameworks).
 
+A responsive personal portfolio website developed as part of my internship at Valentius Kryptix.
+
 ## Features
 
 - Semantic structure: `header`, `nav`, `main`, `section`, `footer`
@@ -25,3 +27,12 @@ HTML5, CSS3 (custom properties, Flexbox, Grxid, media queries), vanilla JavaScri
 index.html   page markup
 style.css    styles and responsive rules
 script.js    nav toggle, theme toggle, project filter
+```
+
+## Internship
+
+This project was completed as part of my internship at **Valentius Kryptix**.
+
+**Organization:** Valentius Kryptix  
+**Internship Project:** Portfolio Website
+
